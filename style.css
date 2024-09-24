@@ -1,0 +1,48 @@
+body { 
+    font-family: sans-serif;
+    background-color: background: rgb(101,23,88);
+    background: linear-gradient(90deg, rgba(101,23,88,1) 20%, rgba(49,21,98,1) 65%, rgba(27,24,52,1) 100%);;
+    margin-top: 40px;
+    margin-left: 35px;
+   
+}
+
+
+
+
+
+h1 {
+    color: #ff1675;
+    font-size: 18px;
+    
+
+}
+
+
+
+
+h2 {
+    font-size: 48px;
+    color: #ffff;
+}
+
+p {
+    color: #ffff;
+}
+
+
+a {
+
+    color: #ffff;
+    
+    font-weight: bold;
+    padding: 25px;
+    background-color: #ff1675;
+    border-radius: 200px;
+    text-decoration: none;
+   
+    
+}
+
+
+
